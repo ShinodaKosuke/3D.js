@@ -61,7 +61,7 @@
                     ]
                 },
                 {
-                    "id": "https://shinodakosuke.github.io/3D.json/OBJtoJSON_koshinto_meguro_1.json",
+                    "id": "https://shinodakosuke.github.io/3D.json/OBJtoJSON_koshinto_meguro_1.txt",
                     "type": "AnnotationPage",
                     "items": [
                         {
