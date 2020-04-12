@@ -34,7 +34,7 @@
     "items": [
         {
             "type": "Canvas",
-            "id": "http://www.kanzaki.com/works/2018/threed/nefertiti/canvas/1",
+            "id": "https://shinodakosuke.github.io/3D.json/OBJtoJSON_koshinto_meguro_1.txt",
             "label": {
                 "@none": [
                     "Three D canvas"
