@@ -44,7 +44,7 @@
             "height": 700,
             "items": [
                 {
-                    "id": "http://www.kanzaki.com/works/2018/threed/nefertiti/content/media-1-1",
+                    "id": "https://shinodakosuke.github.io/3D.json/OBJtoJSON_koshinto_meguro_1.txt",
                     "type": "AnnotationPage",
                     "items": [
                         {
