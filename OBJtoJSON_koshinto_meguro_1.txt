@@ -48,13 +48,13 @@
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "http://www.kanzaki.com/works/2018/threed/nefertiti/media/1-1-1",
+                            "id": "https://shinodakosuke.github.io/3D.json/OBJtoJSON_koshinto_meguro_1.txt",
                             "type": "Annotation",
                             "motivation": "painting",
-                            "target": "http://www.kanzaki.com/works/2018/threed/nefertiti/canvas/1",
+                            "target": "https://shinodakosuke.github.io/3D.json/OBJtoJSON_koshinto_meguro_1.txt",
                             "body": {
                                 "type": "PhysicalObject",
-                                "id": "http://files.universalviewer.io/manifests/demo/nefertiti/nefertiti.json",
+                                "id": "https://shinodakosuke.github.io/3D.json/OBJtoJSON_koshinto_meguro_1.txt",
                                 "format": "application/vnd.threejs+json"
                             }
                         }
@@ -65,11 +65,11 @@
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "http://www.kanzaki.com/works/2018/threed/nefertiti/annot/1-1-1",
+                            "id": "https://shinodakosuke.github.io/3D.json/OBJtoJSON_koshinto_meguro_1.txt",
                             "type": "Annotation",
                             "motivation": "painting",
                             "target": {
-                                "source": "http://www.kanzaki.com/works/2018/threed/nefertiti/canvas/1",
+                                "source": "https://shinodakosuke.github.io/3D.json/OBJtoJSON_koshinto_meguro_1.txt",
                                 "selector": {
                                     "type": "3DSelector",
                                     "value": "0.55,0,1.2"
@@ -81,11 +81,11 @@
                             }
                         },
                         {
-                            "id": "http://www.kanzaki.com/works/2018/threed/nefertiti/annot/1-1-1",
+                            "id": "https://shinodakosuke.github.io/3D.json/OBJtoJSON_koshinto_meguro_1.txt",
                             "type": "Annotation",
                             "motivation": "painting",
                             "target": {
-                                "source": "http://www.kanzaki.com/works/2018/threed/nefertiti/canvas/1",
+                                "source": "https://shinodakosuke.github.io/3D.json/OBJtoJSON_koshinto_meguro_1.txt",
                                 "selector": {
                                     "type": "3DSelector",
                                     "value": "-1.6,-2.2,-0.9"
@@ -97,11 +97,11 @@
                             }
                         },
                         {
-                            "id": "http://www.kanzaki.com/works/2018/threed/nefertiti/annot/1-1-1",
+                            "id": "https://shinodakosuke.github.io/3D.json/OBJtoJSON_koshinto_meguro_1.txt",
                             "type": "Annotation",
                             "motivation": "painting",
                             "target": {
-                                "source": "http://www.kanzaki.com/works/2018/threed/nefertiti/canvas/1",
+                                "source": "https://shinodakosuke.github.io/3D.json/OBJtoJSON_koshinto_meguro_1.txt",
                                 "selector": {
                                     "type": "3DSelector",
                                     "value": "-0.8,2.3,0.6"
