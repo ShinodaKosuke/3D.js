@@ -54,7 +54,7 @@
                             "target": "http://www.kanzaki.com/works/2018/threed/nefertiti/canvas/1",
                             "body": {
                                 "type": "PhysicalObject",
-                                "id": "https://shinodakosuke.github.io/3D.json/OBJtoJSON_koshinto_meguro_1.json",
+                                "id": "https://github.com/ShinodaKosuke/3D.json/blob/master/OBJtoJSON_koshinto_meguro_1.json?raw=true",
                                 "format": "application/vnd.threejs+json"
                             }
                         }
