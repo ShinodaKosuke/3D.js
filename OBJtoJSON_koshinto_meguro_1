@@ -4,7 +4,7 @@
         "http://iiif.io/api/presentation/3/context.json"
     ],
     "type": "Manifest",
-    "id": "https://github.com/ShinodaKosuke/3D.json/blob/master/OBJtoJSON_koshinto_meguro_1.json?raw=true",
+    "id": "http://www.kanzaki.com/works/2018/threed/nefertiti-manifest.json",
     "label": {
         "en": [
             "Bust of Queen Nefertiti"
